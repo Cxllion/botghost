@@ -36,10 +36,10 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Apothecary Diaries", "Lurking in ✿ Kyoto Code", "Annoying Cal and Chuck"];
+const statusMessages = ["Watching Apothecary Diaries", "Lurking in ✿ Kyoto Code", "Annoying Shady Chuck and callion"];
 
 
-let currentIndex = 0;
+let currentIndex = 0; 
 const channelId = '';
 
 async function login() {
