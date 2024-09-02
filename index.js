@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Apothecary Diaries", "Lurking in ✿ Kyoto Code", "Annoying Shady Chuck and callion"];
+const statusMessages = ["Spying on my lovely Kyocodies", "Waiting for Apothecary Diaries S2", "Lurking in ✿ Kyoto Code", "Annoying Chucky and Cally"];
 
 
 let currentIndex = 0; 
