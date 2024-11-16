@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🤷‍♀️I'm Maomao for Halloween, are you surprised?", "❤️ Spying on my lovely Kyocodies", "💤 Waiting for Apothecary Diaries S2", "🔍 Lurking in ✿ Kyoto Code", "🤭 Annoying Chucky and Cally", "🥳 So excited for Summer Anime Awards!"];
+const statusMessages = ["🤷‍♀️I'm Maomao for Halloween, are you surprised?", "❤️ Spying on my lovely Kyocodies", "💤 Waiting for Apothecary Diaries S2", "🔍 Lurking in ✿ Kyoto Code", "🤭 Annoying Chucky and Cally"];
 
 
 let currentIndex = 0; 
